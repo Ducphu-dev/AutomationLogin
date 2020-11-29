@@ -2,4 +2,4 @@
 
 Automation login, logout and resign ChoTot.com
 
-<-- application.properties is the file holding username and password -->
+<-- Data.xlxx is the file holding username and password -->
